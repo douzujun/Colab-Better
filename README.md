@@ -6,9 +6,16 @@ GPU后端可以用25G RAM/68G 硬盘，TPU后端 35G RAM/107G 硬盘
 
 白嫖前：
 
-<img src="https://github.com/douzujun/Colab-Better/blob/master/2.png">
+```
+ physical_device_desc: "device: XLA_GPU device", name: "/device:GPU:0"
+ device_type: "GPU"
+ memory_limit: 14640891840
+ ```
 
 白嫖后：
 
-<img src="https://github.com/douzujun/Colab-Better/blob/master/3.png">
-
+```
+ physical_device_desc: "device: XLA_GPU device", name: "/device:GPU:0"
+ device_type: "GPU"
+ memory_limit: 15695488000
+```
