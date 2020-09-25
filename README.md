@@ -6,9 +6,9 @@ GPU后端可以用25G RAM/68G 硬盘，TPU后端 35G RAM/107G 硬盘
 
 白嫖前：
 
-![](https://github.com/douzujun/Colab-Better/blob/master/2.png)
+<img src="https://github.com/douzujun/Colab-Better/blob/master/2.png">
 
 白嫖后：
 
-![](.https://github.com/douzujun/Colab-Better/blob/master/3.png) 
+<img src="https://github.com/douzujun/Colab-Better/blob/master/3.png">
 
